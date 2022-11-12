@@ -2,5 +2,5 @@
 Console.WriteLine("Make");
 Console.WriteLine("Some");
 Console.WriteLine("Noise:)");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Hello");
+Console.WriteLine("World!");
